@@ -1,2 +1,2 @@
 ini adalah isi dari testfork
-ini adalah baris ke 2
+ini adalah baris ke 3 bukan baris 2
