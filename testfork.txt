@@ -1,2 +1,3 @@
 ini adalah isi dari testfork
 ternyata salah ini memang baris 2
+ini baru baris 3
